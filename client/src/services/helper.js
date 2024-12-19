@@ -1,1 +1,1 @@
-export const BASE_URL = "https://crudapp-izt8.onrender.com"
+export const BASE_URL = 'https://adil-7ui1.onrender.com'
