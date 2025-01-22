@@ -1,6 +1,6 @@
 # CRUD App
 
-Welcome to [App Name]! This application is designed to streamline **Create, Read, Update, and Delete (CRUD)** operations, providing an intuitive interface for managing your data efficiently and effectively.
+This application is designed to streamline **Create, Read, Update, and Delete (CRUD)** operations, providing an intuitive interface for managing your data efficiently and effectively.
 
 ## Features
 - **Create**: Add new entries to your database with ease.
